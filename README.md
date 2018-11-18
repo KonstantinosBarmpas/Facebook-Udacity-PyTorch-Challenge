@@ -27,6 +27,8 @@ VGG-19 is an excellent Convolutional Neural Network (CNN) for image classificati
 
 The classifier is inspired by NVIDIA's neural network used again in Behavioural Cloning Project (check repo) with an added layer of 20588 neurons in the beginning and of course change the number of classes to 102. 
 
+![classifier]
+
 **Training**
 
 During training, I used the pocket algorithm's idea to store and save the model with the minimum validation error to avoid overfitting during unneccesary training steps. The training was done in Udacity's GPU Workspace.

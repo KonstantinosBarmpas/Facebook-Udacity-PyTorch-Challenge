@@ -4,10 +4,10 @@
 
 ---
 
-[network]: ./imgs/Network.png
-[overview]: ./imgs/Classifier_Overview.png
-[classifier]: ./imgs/Classifier_Explanation.png
-[result]: ./imgs/Results30.png
+[network]: ./images/Network.png
+[overview]: ./images/Classifier_Overview.png
+[classifier]: ./images/Classifier_Explanation.png
+[result]: ./images/Results30.png
 
 **Introduction**
 

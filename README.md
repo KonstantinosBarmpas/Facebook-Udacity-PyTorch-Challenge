@@ -1,6 +1,8 @@
 # **Flower Classifier**
 
-## Project for PyTorch Facebook - Udacity Challenge Scholarship.
+## Facebook - Udacity PyTorch Challenge Scholarship.
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ---
 
